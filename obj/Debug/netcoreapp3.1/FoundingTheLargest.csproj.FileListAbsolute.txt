@@ -1,0 +1,13 @@
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/bin/Debug/netcoreapp3.1/FoundingTheLargest.deps.json
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/bin/Debug/netcoreapp3.1/FoundingTheLargest.runtimeconfig.json
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/bin/Debug/netcoreapp3.1/FoundingTheLargest.runtimeconfig.dev.json
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/bin/Debug/netcoreapp3.1/FoundingTheLargest.dll
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/bin/Debug/netcoreapp3.1/FoundingTheLargest.pdb
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/obj/Debug/netcoreapp3.1/FoundingTheLargest.csproj.AssemblyReference.cache
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/obj/Debug/netcoreapp3.1/FoundingTheLargest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/obj/Debug/netcoreapp3.1/FoundingTheLargest.AssemblyInfoInputs.cache
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/obj/Debug/netcoreapp3.1/FoundingTheLargest.AssemblyInfo.cs
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/obj/Debug/netcoreapp3.1/FoundingTheLargest.csproj.CoreCompileInputs.cache
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/obj/Debug/netcoreapp3.1/FoundingTheLargest.dll
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/obj/Debug/netcoreapp3.1/FoundingTheLargest.pdb
+/Users/king-georg/Projects/FoundingTheLargest/FoundingTheLargest/obj/Debug/netcoreapp3.1/FoundingTheLargest.genruntimeconfig.cache
